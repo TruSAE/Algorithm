@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automorph", "Automorph\Automorph.csproj", "{0221038F-8F47-4150-9D10-D8851B1403D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_1", "..\Random_1\Random_1.csproj", "{D8F52B31-59B3-49F0-A93E-C04CECD417B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max3", "..\Max3\Max3.csproj", "{1E50DA11-8F6A-4529-9E6F-7C1650678CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0221038F-8F47-4150-9D10-D8851B1403D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0221038F-8F47-4150-9D10-D8851B1403D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0221038F-8F47-4150-9D10-D8851B1403D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0221038F-8F47-4150-9D10-D8851B1403D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F52B31-59B3-49F0-A93E-C04CECD417B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F52B31-59B3-49F0-A93E-C04CECD417B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F52B31-59B3-49F0-A93E-C04CECD417B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F52B31-59B3-49F0-A93E-C04CECD417B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E50DA11-8F6A-4529-9E6F-7C1650678CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E50DA11-8F6A-4529-9E6F-7C1650678CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E50DA11-8F6A-4529-9E6F-7C1650678CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E50DA11-8F6A-4529-9E6F-7C1650678CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1D5AA9-1A89-45AB-A79C-1857BBC6F745}
+	EndGlobalSection
+EndGlobal
